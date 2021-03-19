@@ -20,7 +20,7 @@ numpy==1.18.1
 opencv-contrib-python==4.2.0.32
 opencv-contrib-python-headless==4.2.0.32
 opencv-python==4.2.0.32
-Pillow==7.0.0
+Pillow==8.1.1
 pip3-multiple-versions==0.2.2
 pyglet==1.5.5
 pyparsing==2.4.7
@@ -56,7 +56,7 @@ numpy==1.18.1
 opencv-contrib-python==4.2.0.32
 opencv-contrib-python-headless==4.2.0.32
 opencv-python==4.2.0.32
-Pillow==7.0.0
+Pillow==8.1.1
 pip3-multiple-versions==0.2.2
 pytz==2019.3
 pyzbar==0.1.8
