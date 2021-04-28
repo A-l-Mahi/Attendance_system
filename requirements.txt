@@ -15,4 +15,3 @@ sqlparse==0.4.1
 webencodings==0.5.1
 whitenoise==5.1.0
 xhtml2pdf==0.2.4
-almahi@Al-Mahi:~/Docume
