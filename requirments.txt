@@ -29,7 +29,7 @@ PyPDF2==1.26.0
 python-dateutil==2.8.1
 pytz==2019.3
 pyzbar==0.1.8
-reportlab==3.5.34
+reportlab==3.6.13
 requests==2.23.0
 six==1.14.0
 sqlparse==0.3.0
@@ -72,7 +72,7 @@ PyPDF2==1.26.0
 python-dateutil==2.8.1
 pytz==2019.3
 pyzbar==0.1.8
-reportlab==3.5.34
+reportlab==3.6.13
 requests==2.23.0
 six==1.14.0
 sqlparse==0.3.0
